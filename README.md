@@ -1,21 +1,24 @@
 <h1 align="center">Hey, I'm Dmytro 👨‍💻</h1>
-<p align="center">Senior PHP & WordPress Developer — Clean code. Performance. Simplicity.</p>
+<p align="center">Senior Product Engineer — Clean code. Performance. Simplicity.</p>
 
 ---
 
 ### 🧠 About Me
 
-Focused on building reliable WordPress solutions with clean architecture, great UX, and long-term maintainability.  
-I enjoy automation, async collaboration, and improving developer workflows.
+Focused on building scalable products and platforms with clean architecture, reliable delivery, and long-term maintainability. 
+Passionate about automation, developer experience, AI-assisted engineering, and continuously improving engineering workflows.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**: PHP • JavaScript (ES6+)  
-**Tools**: React • WordPress • Webpack • Composer • Git • Bash  
-**Testing**: PHPUnit • ESLint • CodeSniffer  
-**Extras**: Performance optimization • REST APIs • Automation workflows
+**Core Stack**: PHP • JavaScript/TypeScript • Node.js • Laravel  
+**Product Engineering**: SaaS modules • commercial platforms • complex business logic • internal tools  
+**Platform Work**: REST APIs • payment integrations • provisioning workflows • automation systems  
+**Frontend**: React • admin interfaces • dashboards • data-heavy product UX  
+**Quality**: PHPUnit • Jest • PHPStan • ESLint • CodeSniffer • regression control  
+**Tooling**: Composer • Webpack/Vite • Git • Bash • CI/CD • AI-assisted workflows  
+**Focus**: scalable architecture • performance • reliability • developer experience
 
 ---
 
