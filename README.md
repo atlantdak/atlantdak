@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Dmytro 👨‍💻</h1>
+<h2 align="center">Hey, I'm Dmytro 👨‍💻</h2>
 <p align="center">Senior Product Engineer — Clean code. Performance. Simplicity.</p>
 
 ---
@@ -27,6 +27,7 @@ Passionate about automation, developer experience, AI-assisted engineering, and 
 - Email: [atlantdak@gmail.com](mailto:atlantdak@gmail.com)  
 - Telegram: [@atlantdak](https://t.me/atlantdak)  
 - LinkedIn: [in/atlantdak](https://linkedin.com/in/atlantdak)
+- [kishkin.dev](https://kishkin.dev)
 
 ---
 
